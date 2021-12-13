@@ -1,0 +1,25 @@
+
+
+
+.flagAndNews{
+    display: flex;
+   
+   
+   
+}
+.flagPart{
+    width: 300px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 10px;
+  position: relative;
+  left: 200px;
+  bottom: 100px;
+}
+.flagPart img{
+    width: 300px;
+    height: 120px;
+}
+.someDeatils{
+    width: 700px;
+}
